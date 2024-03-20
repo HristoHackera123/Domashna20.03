@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.exe
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.deps.json
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.runtimeconfig.json
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.dll
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\bin\Debug\net8.0\BinaryToDecimal.pdb
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.AssemblyInfo.cs
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.dll
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\obj\Debug\net8.0\refint\BinaryToDecimal.dll
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.pdb
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\obj\Debug\net8.0\BinaryToDecimal.genruntimeconfig.cache
+C:\Users\encho\source\repos\Strings\BinaryToDecimal\obj\Debug\net8.0\ref\BinaryToDecimal.dll

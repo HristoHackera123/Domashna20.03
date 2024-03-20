@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Strings\SentenceSplit\bin\Debug\net8.0\SentenceSplit.exe
+C:\Users\encho\source\repos\Strings\SentenceSplit\bin\Debug\net8.0\SentenceSplit.deps.json
+C:\Users\encho\source\repos\Strings\SentenceSplit\bin\Debug\net8.0\SentenceSplit.runtimeconfig.json
+C:\Users\encho\source\repos\Strings\SentenceSplit\bin\Debug\net8.0\SentenceSplit.dll
+C:\Users\encho\source\repos\Strings\SentenceSplit\bin\Debug\net8.0\SentenceSplit.pdb
+C:\Users\encho\source\repos\Strings\SentenceSplit\obj\Debug\net8.0\SentenceSplit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Strings\SentenceSplit\obj\Debug\net8.0\SentenceSplit.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Strings\SentenceSplit\obj\Debug\net8.0\SentenceSplit.AssemblyInfo.cs
+C:\Users\encho\source\repos\Strings\SentenceSplit\obj\Debug\net8.0\SentenceSplit.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Strings\SentenceSplit\obj\Debug\net8.0\SentenceSplit.dll
+C:\Users\encho\source\repos\Strings\SentenceSplit\obj\Debug\net8.0\refint\SentenceSplit.dll
+C:\Users\encho\source\repos\Strings\SentenceSplit\obj\Debug\net8.0\SentenceSplit.pdb
+C:\Users\encho\source\repos\Strings\SentenceSplit\obj\Debug\net8.0\SentenceSplit.genruntimeconfig.cache
+C:\Users\encho\source\repos\Strings\SentenceSplit\obj\Debug\net8.0\ref\SentenceSplit.dll

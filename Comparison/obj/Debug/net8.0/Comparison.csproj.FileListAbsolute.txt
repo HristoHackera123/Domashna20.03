@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\Strings\Comparison\obj\Debug\net8.0\Comparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\Strings\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\Strings\Comparison\obj\Debug\net8.0\Comparison.AssemblyInfo.cs
+C:\Users\encho\source\repos\Strings\Comparison\obj\Debug\net8.0\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\Strings\Comparison\bin\Debug\net8.0\Comparison.exe
+C:\Users\encho\source\repos\Strings\Comparison\bin\Debug\net8.0\Comparison.deps.json
+C:\Users\encho\source\repos\Strings\Comparison\bin\Debug\net8.0\Comparison.runtimeconfig.json
+C:\Users\encho\source\repos\Strings\Comparison\bin\Debug\net8.0\Comparison.dll
+C:\Users\encho\source\repos\Strings\Comparison\bin\Debug\net8.0\Comparison.pdb
+C:\Users\encho\source\repos\Strings\Comparison\obj\Debug\net8.0\Comparison.dll
+C:\Users\encho\source\repos\Strings\Comparison\obj\Debug\net8.0\refint\Comparison.dll
+C:\Users\encho\source\repos\Strings\Comparison\obj\Debug\net8.0\Comparison.pdb
+C:\Users\encho\source\repos\Strings\Comparison\obj\Debug\net8.0\Comparison.genruntimeconfig.cache
+C:\Users\encho\source\repos\Strings\Comparison\obj\Debug\net8.0\ref\Comparison.dll
